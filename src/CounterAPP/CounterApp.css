@@ -1,0 +1,26 @@
+
+.card {
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+   
+}
+h1{
+    color: white;
+}
+.card-header{
+    background-color: rgb(4, 55, 82);
+}
+.card-body{
+    background-color: rgb(145, 180, 211);
+}
+.child{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.btn-class{
+    background-color:
+}
+.btn{
+    background-color: rgb(43, 8, 8);
+}
