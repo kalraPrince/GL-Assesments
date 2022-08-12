@@ -1,3 +1,4 @@
+// priority 1 is lower 2 is higher then and 3 is higher the all of them and use green,yellow and red color for them
 const TicketData = [
     {
         id : 1,
